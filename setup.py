@@ -17,3 +17,4 @@ setup(
     install_requires=REQUIRES,
     description='orm client with allure and login'
 )
+
